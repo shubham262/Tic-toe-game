@@ -141,6 +141,10 @@ window.addEventListener('DOMContentLoaded',()=>{
         })
         announcer.innerHTML=""
         announcer.classList.add("hide")
+        bavk.style.backgroundColor="#746AB0"
+        gameActive=true
+        board=['','','','','','','','','']
+        
     }
 
 
